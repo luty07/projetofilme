@@ -52,7 +52,9 @@
    width: 300px;
    height: 400px;
 }
- /* ---- */
+ .foto_personagem_robin{
+   height: 400px;
+}
  .foto_vilao{
    height: 250px;
 
