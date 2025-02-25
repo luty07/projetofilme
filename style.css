@@ -85,3 +85,23 @@ height: 51px;
     height: 350px;
 
  }
+ #batman_alternativo {
+   color: rgb(252, 255, 50);
+   justify-content: space-around;
+   display: flex;
+   background-color: rgb(36, 36, 36);
+   margin: 150px;
+   border: 50px;
+   padding: 10px
+}
+
+.batman_ver {
+   display: flex;
+   align-items: center;
+   padding: 50px;
+}
+
+.foto_bat {
+   height: 350px;
+
+}
